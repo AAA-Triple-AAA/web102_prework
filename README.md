@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/Uw1vgLE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="assets/VideoWalkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -40,6 +40,8 @@ GIF created with LICEcap
     as the second argument.
 -   In developing the progress bar, a lot of tinkering had to be done with the styling in order to achieve the proper look.
 -   Because the game cards are removed and refreshed with every filter, so too did the event listeners on each of those cards, as a result I added the even listeners for the cards in a function that is executed at the end of every filter function.
+-   IMGUR link to GIF for video walkthrough was not showing in GitHub
+    view of README.md, so I added the GIF to the assets folder and linked to it.
 
 ## License
 
