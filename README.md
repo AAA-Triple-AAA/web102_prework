@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
--   [x] Added a feature where whenever a game card is hovered over, a progress bar is shown with the total amount the game has raised and in text, and the bar showing the progress the crowdfunding campaign has towards its goal. If it has met or exceeded that goal, the bar is completely filled.
+-   [x] Added a feature where whenever a game card is hovered over, a progress bar is shown with the total amount the game has raised and in text, and the bar showing the progress the crowdfunding campaign has towards its goal. If it has met or exceeded that goal, the bar is completely filled. This was an important addition since the user has no information as to the level to which a game is funded, only whether it is fully funded or not. It also displays the absolute dollar amount a game has been funded which was a piece of information not found previously at all.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/eIBukbA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
