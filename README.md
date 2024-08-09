@@ -1,8 +1,8 @@
-# WEB102 Prework - Sea Monster Crowdfunding
+# WEB102 Prework - Triple A's Sea Monster Crowdfunding
 
 Submitted by: **Adrian Abella Acosta**
 
-**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Triple A's Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **4** hours spent in total
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
--   [ ] List anything else that you can get done to improve the app functionality!
+-   [x] Added a feature where whenever a game card is hovered over, a progress bar is shown with the total amount the game has raised and in text, and the bar showing the progress the crowdfunding campaign has towards its goal. If it has met or exceeded that goal, the bar is completely filled.
 
 ## Video Walkthrough
 
@@ -38,6 +38,8 @@ GIF created with LICEcap
 
 -   Got stuck on the reduce functions for a while due to missing the default value
     as the second argument.
+-   In developing the progress bar, a lot of tinkering had to be done with the styling in order to achieve the proper look.
+-   Because the game cards are removed and refreshed with every filter, so too did the event listeners on each of those cards, as a result I added the even listeners for the cards in a function that is executed at the end of every filter function.
 
 ## License
 
